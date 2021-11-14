@@ -1,0 +1,10 @@
+{
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "dotnet-test-explorer.enableTelemetry": false,
+    "dotnet-test-explorer.testArguments": "--logger 'console;verbosity=detailed'",
+    "coverage-gutters.coverageFileNames": [ "coverage.cobertura.xml" ],
+    "cSpell.words": [ "kaylumah", "xunit" ]
+}
